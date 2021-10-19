@@ -1,0 +1,40 @@
+#center{ 
+    background-color: green; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 80%; 
+  } 
+  #content{ 
+    background-color: rosybrown; 
+  } 
+  #baner{ 
+      padding-top: 30px; 
+      padding-bottom: 30px; 
+  } 
+  img{ 
+    border-style: solid; 
+    border-width: 7px; 
+    border-color: purple; 
+  } 
+h1{ 
+    margin-left: 50px; 
+    font-size: 34px; 
+    font-style: bold; 
+    text-decoration: underline; 
+} 
+p{ 
+    margin-left: 80px; 
+    margin-right: 80px; 
+    border-style: dashed; 
+    border-width: thin; 
+    border-color: green; 
+    background-color: rgb(234, 138, 259); 
+    padding: 20px; 
+} 
+#article{ 
+    padding-bottom: 35px; 
+} 
+a:hover{ 
+    color: gold; 
+}
